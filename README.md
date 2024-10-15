@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **dayagomez31@hotmail.com**
 
-- 📄 Know about my experiences [Desde que comencé en este emocionante campo, he estado motivada por la curiosidad y el deseo de crear experiencias de usuario excepcionales. Cada proyecto es una oportunidad para aprender y crecer](Desde que comencé en este emocionante campo, he estado motivada por la curiosidad y el deseo de crear experiencias de usuario excepcionales. Cada proyecto es una oportunidad para aprender y crecer)
+- 📄 Know about my experiences Desde que comencé en este emocionante campo, he estado motivada por la curiosidad y el deseo de crear experiencias de usuario excepcionales. Cada proyecto es una oportunidad para aprender y crecer
 
 - ⚡ Fun fact **El primer usuario siempre sera mi abuela, si ella puede usar mi app todo pueden**
 
