@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Dayana Gomez Valencia</h1>
+<h1 align="center">Hola 👋, soy  Dayana Gomez Valencia</h1>
 <h3 align="center">Soy una apasionada del desarrollo web, especializada en Front End. estoy lista para enfrentar nuevos desafíos y contribuir a proyectos innovadores.</h3>
 
 - 🔭 I’m currently working on **Lasercol**
